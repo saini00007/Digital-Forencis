@@ -1,5 +1,6 @@
 # Digital-Forencis
 Digital Forencis Tools 
+
 **Image acquisition Tools**
 1. DC3DD:- DC3DD is a powerful data copying tool designed for computer forensics tasks. It extends the functionality of the traditional 'dd' command, offering features such as hashing, error handling, and progress monitoring. With support for various output formats, DC3DD is widely used for creating exact copies of storage media while preserving data integrity. We can also split the image into multiple images. by dc3dd we can erase an drive...
 2. DD:- (Disk Dump) is a Unix-based command-line utility used for low-level copying and conversion of data. It's primarily employed for tasks like disk cloning and backup creation. DD operates by reading from and writing to specified locations, offering basic functionality for data replication and manipulation on block-level.
@@ -14,6 +15,7 @@ Digital Forencis Tools
 4. Bulkextractor \:- Bulk_extractor is a powerful digital forensics tool designed to extract valuable information from digital media quickly and efficiently. It specializes in identifying and extracting features such as email addresses, URLs, credit card numbers, and other structured data from disk images or raw data. Bulk_extractor operates through pattern matching and statistical analysis, aiding investigators in uncovering evidence relevant to their cases while minimizing manual effort.
 
    **Memory Forensics with Volatility.**
+
 Memory forensics involves analyzing the volatile memory (RAM) of a computer system to extract evidence and uncover insights into its state at a specific point in time. Volatility is a popular open-source framework for memory forensics, providing a wide range of tools and plugins to analyze memory dumps.
 
 Using Volatility, analysts can:
@@ -43,6 +45,7 @@ NetworkMiner For Analysis:-  NetworkMiner is a packet analysis tool specialized 
 Pcapxray:- PCAPXray is a network forensics tool used for analyzing and visualizing packet capture (PCAP) files. It automates the process of dissecting network traffic, identifying hosts, protocols, and anomalies. Key features include network mapping, protocol analysis, and traffic visualization, aiding in incident response and forensic investigations. With its graphical interface, users can easily interpret complex network data, detect security threats, and analyze communication patterns. PCAPXray is favored by security professionals and forensic analysts for its ability to uncover hidden insights within network traffic, helping organizations enhance their cybersecurity posture and mitigate risks effectively.
 
 **More Forencis Tools**
+
 1. Photorec
 2. exiftool
 3. 
